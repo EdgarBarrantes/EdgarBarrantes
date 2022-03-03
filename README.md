@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Edgar, full stack software developer based somewhere around Europe.
+I'm Edgar, full-stack software developer based somewhere around Europe.
 
 You can reach here or at my [email](mailto:edgar@barrantes.dev), I'm happy to help.
 
