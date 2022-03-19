@@ -9,7 +9,7 @@ You can reach here or at my [email](mailto:edgar@barrantes.dev), I'm happy to he
 - 🖥️ Programming languages: TypeScript, JavaScript / NodeJS, Solidity
 - 🖼️ Frameworks: React, Next.js, NestJS
 - 🗣️ Human languages: English, Spanish, French, Bulgarian
-- 🤹 Other skills: PostgreSQL, TypeORM, GraphQL, AWS, Smart contract deployments
+- 🤹 Other skills: PostgreSQL, TypeORM, GraphQL, Docker, AWS, Smart contract deployments
 
 ## 🧮 Things, quantified
 
