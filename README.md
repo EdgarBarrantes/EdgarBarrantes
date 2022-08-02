@@ -1,12 +1,12 @@
 ### Hi there 👋
 
-I'm Edgar, full-stack software developer based somewhere around Europe.
+I'm Edgar, software developer based somewhere around Europe. Currently working mainly with [Cairo](https://www.cairo-lang.org/).
 
 You can reach here or at my [email](mailto:edgar@barrantes.dev), I'm happy to help.
 
 ## 🔧 Things I can do
 
-- 🖥️ Programming languages: TypeScript, JavaScript / NodeJS, Solidity
+- 🖥️ Programming languages: Typescript / JavaScript / NodeJS, Solidity, Cairo
 - 🖼️ Frameworks: React, Next.js, NestJS
 - 🗣️ Human languages: English, Spanish, French, Bulgarian
 - 🤹 Other skills: PostgreSQL, TypeORM, GraphQL, Docker, AWS, Smart contract deployments
