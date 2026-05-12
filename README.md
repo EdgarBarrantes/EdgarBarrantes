@@ -1,12 +1,10 @@
 ### Hi there 👋
 
-I'm Edgar, software developer based somewhere around Europe or Latin America. Currently working mainly with [Cairo](https://www.cairo-lang.org/).
-
-You can reach here or at my [email](mailto:edgar@barrantes.dev), I'm happy to help.
+I'm Edgar, software developer based somewhere around Europe or Latin America.
 
 ## 🔧 Things I can do
 
-- 🖥️ Programming languages: Typescript / JavaScript / NodeJS, Solidity, Cairo, Rust
+- 🖥️ Programming languages: Typescript / JavaScript / NodeJS, Solidity, Noir, Cairo, Rust
 - 🖼️ Frameworks: Actix, NestJS, React, Next.js
 - 🗣️ Human languages: English, Spanish, French, Bulgarian
 - 🤹 Other skills: PostgreSQL, TypeORM, GraphQL, Docker, AWS, Smart contract deployments
