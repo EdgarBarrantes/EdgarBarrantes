@@ -1,13 +1,17 @@
 ### Hi there 👋
 
-I'm Edgar, software developer based somewhere around Europe or Latin America.
+I'm Edgar, a software engineer with ~10 years of experience, based somewhere around Europe. Previously at Nethermind and WalletConnect, mostly full-stack TypeScript and blockchain/ZK work.
+
+- 🔭 Currently building agent harnesses, self-hosting my services and refining my tools
 
 ## 🔧 Things I can do
 
-- 🖥️ Programming languages: Typescript / JavaScript / NodeJS, Solidity, Noir, Cairo, Rust
-- 🖼️ Frameworks: Actix, NestJS, React, Next.js
-- 🗣️ Human languages: English, Spanish, French, Bulgarian
-- 🤹 Other skills: PostgreSQL, TypeORM, GraphQL, Docker, AWS, Smart contract deployments
+The list below is what I've worked with hands-on. These days I spend more time directing AI agents than typing code. My focus is on understanding the problem, reviewing output fast, and nudging it in the right direction. The stacks depend on the problem.
+
+- 🖥️ Languages: TypeScript / Node.js, Rust, Solidity, Noir, Cairo
+- 🖼️ Frameworks: NestJS, React, Next.js, Actix
+- 🤹 Tooling & infra: PostgreSQL, TypeORM, GraphQL, Docker, AWS, smart contract deployments
+- 🗣️ Human languages: English, Spanish, French, Bulgarian (learning)
 
 <!--
 **EdgarBarrantes/EdgarBarrantes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
